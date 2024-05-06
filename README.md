@@ -4,8 +4,8 @@ The repository contains the jupyter notebooks for coding, pre-training and fine-
 
 
 1. Text data embedding <br>
-&nbsp; 1.1 Tokenization of text data code tokenizing_text.ipynb
-&nbsp; 1.2 Token embedding code in token_embedding.ipynb  
+&nbsp; 1.1 Tokenization of text data code tokenizing_text.ipynb <br>
+&nbsp; 1.2 Token embedding code in token_embedding.ipynb <br>
 
 2. Data preparation and sampling code in sliding_window_sampling.ipynb
 
